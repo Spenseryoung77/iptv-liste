@@ -1,0 +1,621 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Benin_TV_logo.jpg/250px-Benin_TV_logo.jpg" tvg-country="Bénin" group-title="Généraliste",Bénin TV (BJ)
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://srtb.bj/wp-content/uploads/2025/04/BANNIERE-SITE-BTV-JUNIOR-1.jpg" tvg-country="Bénin" group-title="Jeunesse",Bénin TV Junior (BJ)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvcbenin.com/assets/img/logo-tvc-benin.png" tvg-country="Bénin" group-title="Divertissement",TVC (BJ)
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7f/Radio_T%C3%A9l%C3%A9vision_Burkina_logo.jpg" tvg-country="Burkina Faso" group-title="Généraliste",RTB (BF)
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBFQ1mGQtCaVCE5JZnppYK1l1kKf3y2TiSgA" tvg-country="Burkina Faso" group-title="Généraliste",RTB3 (BF)
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_RTI_1.svg/330px-Logo_RTI_1.svg.png" tvg-country="Côte d’Ivoire" group-title="Généraliste",RTI 1 (CI)
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_l7esl2lg/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Logo_RTI2.svg/330px-Logo_RTI2.svg.png" tvg-country="Côte d’Ivoire" group-title="Généraliste",RTI 2 (CI)
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_i50dd97e/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6ezi-6nDoJSJ6PBpCZMo9aEJ39vPNuSmrDMXooBhhlQP7fv32abq9oRzDA_PIfwuOH4=w480-h960-rw" tvg-country="Côte d’Ivoire" group-title="Divertissement",La3 (RTI3) (CI)
+https://cdnapisec.kaltura.com/p/6234172/sp/623417200/playManifest/entryId/1_vobpak2o/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://www.nci.ci/assets/images/logo_nci.png" tvg-country="Côte d’Ivoire" group-title="Généraliste",NCI (CI)
+https://cdnapisec.kaltura.com/p/5571652/playManifest/entryId/1_2gnrfyb6/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-logo="https://www.lifetv.ci/wp-content/uploads/2023/07/logo.png" tvg-country="Côte d’Ivoire" group-title="Généraliste",LifeTV (CI)
+https://strhls.streamakaci.tv/str_lifetv_lifetv/str_lifetv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqV4FaSfXqTOFRdnTz6_OOIB1dj5YYnnJb2UOs70rkQ" tvg-country="Côte d’Ivoire" group-title="Info",7Info (CI)
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.business24tv.com/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-logo-1.jpeg" tvg-country="Côte d’Ivoire" group-title="Economie",Business 24 (CI)
+https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbegu-tv.com/images/logo.png" tvg-country="Congo (CD)" group-title="Généraliste",MBegu (CD)
+https://5caf24a595d94.streamlock.net:1937/8144/8144/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rtnc.cd/wp-content/uploads/2025/03/logo-bendele-blanc-300x73.png" tvg-country="Congo (CD)" group-title="Généraliste",RTNC (CD)
+https://glb.bozztv.com/glb/astv/astv-rtnc1/index.m3u8?token=994940dffa4f2c8c74be74353cb04754
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNoP_8khfnNouWryqYq_enxntNtXuRE3q52N5VA=s1360-w1360-h1020" tvg-country="Congo (CD)" group-title="Info",Geopolis TV (CD)
+https://tnt-television.com/Geopolis_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/b-kids.jpeg" tvg-country="Congo (CD)" group-title="Jeunesse",B-Kids (CD)
+https://tnt-television.com/B-KIDS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/LOGO-TELE-CONGO_RVB.jpg" tvg-country="Congo (CG)" group-title="Généraliste",Télé Congo (CG)
+https://www.giniko.com/xml/secure/plist.php?ch=6
+#EXTINF:-1 tvg-logo="https://thumb.canalplus.pro/bran/unsafe/842x/filters:quality(%7BimageQualityPercentage%7D)/image/68743b76f340d/uploads/media/GABON_CULTURE_640x480.png" tvg-country="Gabon" group-title="Culture",Gabon Culture (GA)
+https://video1.getstreamhosting.com:1936/8337/8337/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/LOGO-REGI-MULTIMEDIA-_copie.png" tvg-country="Gabon" group-title="Info",Gabon 24 (GA)
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QJuPJPRkXlk9vWjaSwHU68k1aDDu440LTdztClKtqQ&s" tvg-country="Guinée" group-title="Divertissement",GTV1 (GN)
+https://playtv4k.live/live/gtv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.afrikinfomedias.com/wp-content/uploads/2024/04/Logo-2.jpeg" tvg-country="Guinée" group-title="Info",Afrikinfo (GN)
+https://kali.vdopanel.com:3119/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/ORTM.gif" tvg-country="Mali" group-title="Généraliste",ORTM1 (ML)
+https://www.giniko.com/xml/secure/plist.php?ch=7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png" tvg-country="Maroc" group-title="Info",Medi1 Afrique (MA)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937080013387653120/Kq-dajj0_400x400.jpg" tvg-country="Niger" group-title="Généraliste",Télé Sahel (NE)
+https://glb.bozztv.com/glb/astv/astv-telesahel/index.m3u8?token=703194af9d0c6b71c043a9d4c17991dc
+#EXTINF:-1 tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts.13e4ee12.png&w=128&q=75" tvg-country="Sénégal" group-title="Généraliste",RTS 1 (SN)
+https://cloudvider.leatdev.com/rts1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts.13e4ee12.png&w=128&q=75" tvg-country="Sénégal" group-title="Généraliste",RTS 2 (SN)
+https://cloudvider.leatdev.com/rts2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.a2itv.com/wp-content/uploads/2026/08/cropped-cropped-IMG_1156-4.jpg" tvg-country="Sénégal" group-title="Généraliste",A2i TV (SN)
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6a/Logo_Africa_24.jpg" tvg-country="Sénégal" group-title="Généraliste",Africa24 (SN)
+https://africa24.vedge.infomaniak.com/livecast/africa24/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.leral.net/photo/titre_22086039.png" tvg-country="Sénégal" group-title="Généraliste",Leral TV (SN)
+https://cloudvider.leatdev.com/leraltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.seneweb.com/v5/img/logo-2oans-welcome-page2.png" tvg-country="Sénégal" group-title="Généraliste",Seneweb TV (SN)
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/9/5/d95b5422bc4848a08aad6f0cc3b80f3a_icon.jpg" tvg-country="Sénégal" group-title="Généraliste",TFM (SN)
+https://cloudvider.leatdev.com/tfm/index.m3u8
+#EXTINF:-1 tvg-logo="https://laviesenegalaise.com/wp-content/uploads/2024/02/Walf-TV.jpg" tvg-country="Sénégal" group-title="Généraliste",Walf TV (SN)
+https://cloudvider.leatdev.com/walftv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cio-mag.com/wp-content/uploads/2023/05/unnamed.jpg" tvg-country="Sénégal" group-title="Sociétal",Télé-école (SN)
+https://tvradiozap.eu/tools/ac-m3u8.php/55.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=300%2C63&ssl=1" tvg-country="Sénégal" group-title="Sport",Africa24 Sport (SN)
+https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png" tvg-country="Tchad" group-title="Généraliste",Télé Tchad (TD)
+https://tchadlive.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo-New-World-TV-01-1.png/330px-Logo-New-World-TV-01-1.png" tvg-country="Togo" group-title="Divertissement",NW Mix (TG)
+https://hls.newworldtv.com/nw-magazine/video/live_3.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo-New-World-TV-01-1.png/330px-Logo-New-World-TV-01-1.png" tvg-country="Togo" group-title="Economie",NW Economie (TG)
+https://hls.newworldtv.com/nw-economie/video/live_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.sos-docteur.tv/Styles_tv/img/baniere_modif_001.png" tvg-country="Togo" group-title="Sociétal",SOS Docteur (TG)
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/x9o4ze2.m3u8#tvrz=direct
+#EXTINF:-1 tvg-logo="https://www.diaspora-story.com/wp-content/uploads/2025/03/cropped-LOGO-DIASPORA-STORY-SANS-FOND-1.png" tvg-country="Panafrique" group-title="Divertissement",Diaspora Story (FR)
+https://vdo3.pro-fhi.net:3534/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.diaspora-channel.com/wp-content/uploads/2020/12/13DE2A4C-28B3-43CF-9AD5-A5D7EF8A4B98.png" tvg-country="Panafrique" group-title="Généraliste",Diaspora Channel (FR)
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" tvg-country="Panafrique" group-title="Info",Africanews (EU)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-logo="https://canaf54.tv/assets/img/new-logo.png" tvg-country="Panafrique" group-title="Info",Canaf54 (GB)
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Voxafrica-1.png" tvg-country="Panafrique" group-title="Info",VoxAfrica (UK)
+https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.diaspora-movies.com/wp-content/uploads/2025/03/LOGO-DIASPORA-MOVIES-SANS-FOND-2.png" tvg-country="Panafrique" group-title="Séries-Films",Diaspora Movies (FR)
+https://vdo3.pro-fhi.net:3389/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.zik-channel.com/wp-content/uploads/2020/12/313CFE1E-B809-436D-AF04-A83E091E9F2E-600x302.jpeg" tvg-country="Panafrique" group-title="Séries-Films",Diaspora Séries (FR)
+https://vdo3.pro-fhi.net:3663/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://lenouveaumanager.info/wp-content/uploads/2020/04/LOGO-1-scaled.jpg" tvg-country="Bénin" group-title="Economie",Le Nouveau Manager TV (BJ)
+https://lnmlive.com/live/lnmtv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQdKdMhGKX6p_xBcWVtVhz5ov9-vMT8nPHngTvNHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="Bénin" group-title="Généraliste",Etélé (BJ)
+https://tvradiozap.eu/tools/tw-m3u8.php/etelelive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-country="Bénin" group-title="Généraliste",Speedline TV (BJ)
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_bf1.png/330px-Logo_bf1.png" tvg-country="Burkina Faso" group-title="Généraliste",BF1 (BF)
+https://tvradiozap.eu/tools/cof-m3u8.php/dm/xa4kdv6.m3u8#tvrz=natif&direct
+#EXTINF:-1 tvg-logo="https://savanemedias.net/wp-content/uploads/2017/11/cropped-logo_savane_2-1.png" tvg-country="Burkina Faso" group-title="Généraliste",Savane TV (BF)
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.rtb.bf/wp-content/uploads/2020/01/images.jpg?resize=320%2C192" tvg-country="Burkina Faso" group-title="Régional",RTB Guiriko (BF)
+https://rtbguiriko.vedge.infomaniak.com/livecast/ik:rtbguiriko-2/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6rKnUPrBwfMle6BJ_aGgG00GjvS5TO6DeSAdabX9bW4kIK_aWsV5E9JYuBsfishiH5I&usqp=CAU" tvg-country="Cameroun" group-title="Cinéma",MyTV Channel (CM)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tve.static.acan.group/images/channel_1773845450.png" tvg-country="Cameroun" group-title="Divertissement",CRTV (CM)
+https://stream.ecable.tv/crtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://lauradavemedia.com/wp-content/uploads/2025/11/LDM-logo-tvPNG.png" tvg-country="Cameroun" group-title="Divertissement",Laura Dave (CM)
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-logo="https://telepack.net/wp-content/uploads/2022/11/tr24-telepack.jpg" tvg-country="Cameroun" group-title="Divertissement",TR24 (CM)
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_FYlU9wsbrUPi6BINiga8hTiLRli0xkibaA&s" tvg-country="Cameroun" group-title="Généraliste",CAM10 (CM)
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgWthNMZyU0LlqkziTT2DBO15sVmEOwOQIYSPa=s176-c-k-c0x00ffffff-no-rj" tvg-country="Cameroun" group-title="Généraliste",CTV Afrique (CM)
+https://stream.it-innov.com/ctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.first-channel.net/wp-content/uploads/2025/08/cropped-LOGO-FIRST-CHANNEL-SANS-FOND-COMPRESSE-100.png" tvg-country="Cameroun" group-title="Généraliste",First Channel (FR)
+https://vdo3.pro-fhi.net:3464/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://foryoumedia-africa.com/assets/img/header/foryou-media-afrique-logo.png" tvg-country="Cameroun" group-title="Généraliste",FY Africa (CM)
+https://foryoumedia-africa.com/stopRTpropagande.m3u8
+#EXTINF:-1 tvg-logo="https://afrique54.net/wp-content/uploads/2024/06/cropped-LOGO-POUR-NAVIGATEUR-300x300.png" tvg-country="Cameroun" group-title="Info",A54 (CM)
+https://admin.digitz-tv.online/hls/afrique54-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/afriquemedia.tv/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" tvg-country="Cameroun" group-title="Info",Afrique Media (CM)
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.goafricaonline.com/media/cache/resolve/w1200/uploads/media/user_profile/0005/87/67b272c8cc668-diapositive1-removebg-preview.jpg" tvg-country="Cameroun" group-title="Info",UM-TV (CM)
+https://5dcabf026b188.streamlock.net/aoblive/mediainfostv/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" tvg-country="Cameroun" group-title="Séries-Films",Plex (CM)
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://afriquemaisonettravauxtv.bmg.ci/wp-content/uploads/2024/07/logo_site_-removebg-preview-1.png" tvg-country="Côte d’Ivoire" group-title="Art de vivre",AMT TV (CI)
+https://bmgstream.top/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nb6bCgOzPFZaFiDWl24ghJcExUjNf8nP5CE2johTP_waoszi8MYLw0U5SLmSxjPBZg" tvg-country="Côte d’Ivoire" group-title="Divertissement",A12 (CI)
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.dntv.ci/resources/img/dntv_red_image.png" tvg-country="Côte d’Ivoire" group-title="Divertissement",DNTV (CI)
+https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
+#EXTINF:-1 tvg-logo="https://telepack.net/wp-content/uploads/2020/04/ivoire-channel-1.png" tvg-country="Côte d’Ivoire" group-title="Divertissement",Ivoire Channel (CI)
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NtvLOGO.png/330px-NtvLOGO.png" tvg-country="Côte d’Ivoire" group-title="Divertissement",NTV (CI)
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sZxGbr7ulYBGUQPrpJbzCy62jFQ3hGhYvQikuj9lgCuLr2CMo0ZDSygm1gruazLn5VNA0gZsuQ=s160-c-k-c0x00ffffff-no-rj" tvg-country="Côte d’Ivoire" group-title="Divertissement",Reel TV (CI)
+https://neriyastreaming.ddns.net/memfs/a59bc008-a226-430c-a050-45fa0891d8c3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3wvrNDQawT4/mqdefault.jpg" tvg-country="Côte d’Ivoire" group-title="Economie",Champion TV (CI)
+https://uae.iptv2022.com/sh/Champion_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvlacapitale.com/assets/assets/images/Logo_TV.png" tvg-country="Côte d’Ivoire" group-title="Généraliste",TV La Capitale
+https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
+#EXTINF:-1 tvg-logo="https://tubeau237.s3.eu-west-3.amazonaws.com/wp-content/uploads/2024/08/03004529/novela-channel-telepack.jpg" tvg-country="Côte d’Ivoire" group-title="Séries-Films",Novela Channel (CI)
+https://video1.getstreamhosting.com:1936/8352/8352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJ8g8KcaN6gpzTdiLquUpnA5UlBn5dtJQxg&s" tvg-country="Côte d’Ivoire" group-title="Sociétal",L'intelligent (CI)
+https://33dm09.vedge.infomaniak.com/livecast/ik:33dm09/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQzXErU.png" tvg-country="Côte d’Ivoire" group-title="ϟϟϟ Sans catégorie",AfroMagic channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tnf-hd.com/uploads/tv_image/arc_en-ciel-tv.png" tvg-country="Congo (CD)" group-title="Divertissement",Arc-En-Ciel (CD)
+https://tnt-television.com/ARC_EN-CCIEL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/24879/logo_256_1714471799.jpg" tvg-country="Congo (CD)" group-title="Divertissement",Balade Monde Tv (CD)
+https://stream.berosat.live/hls/live-tv/live-tv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/152015.v1.png" tvg-country="Congo (CD)" group-title="Divertissement",Lollywood TV (CD)
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 tvg-logo="https://rlprotelevisionfr.wordpress.com/wp-content/uploads/2022/10/rlprotv.png" tvg-country="Congo (CD)" group-title="Divertissement",RL Pro (CD)
+https://stream.berosat.live/hls/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/wangu-rtv_1783209626.png" tvg-country="Congo (CD)" group-title="Divertissement",Wangu (CD)
+https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_Antenne_A.png" tvg-country="Congo (CD)" group-title="Généraliste",Antenne A (CD)
+https://ip-pro.berosat.live/hls/live/ANTENNE-A/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV89RrEXd7V2DeY_MK1ixd5aNjVrrlyF9Gzg&s" tvg-country="Congo (CD)" group-title="Généraliste",Baraka TV (CD)
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHKOOfxW5-9MJTrzZGXHeNhjwUAu4Bn6rJExaupTOb8ipH2cPap2PPK_i8BlgCL8h_lwkcHi-a5y-RL8jdzcFckmzw79nzB3Bd4ID-jP8vVds74bvzew6VdxCIgRipoRbzJFn3L4d3MA/s640/images+%25287%2529.jpg" tvg-country="Congo (CD)" group-title="Généraliste",Digital Congo (CD)
+https://tnt-television.com/DIGITAL_ZAP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://api.innovasat-ott.com/storage/channels/NC6bgG9B8SgHBSGdzLq7CE2pZoLvwV1CuX82GqKV.png" tvg-country="Congo (CD)" group-title="Généraliste",EGG Pro TV (CD)
+https://eggproiptv.duckdns.org:3571/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61bf1XNEJOL.png" tvg-country="Congo (CD)" group-title="Généraliste",EVI TV (CD)
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/hk6_tv.jpeg" tvg-country="Congo (CD)" group-title="Généraliste",HK6 (CD)
+https://tnt-television.com/HK6_TNF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://afreesat.berosat.live/hcgi/platform/api/files/pbc_7991542277/n70ep06gxbe4gdk/kmk_6w1nizc2fy.jpg" tvg-country="Congo (CD)" group-title="Généraliste",KMK TV (CD)
+https://stream.berosat.live/hls/kmk-index/kmk-index.m3u8
+#EXTINF:-1 tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/lifehd_tv.png" tvg-country="Congo (CD)" group-title="Généraliste",Life HD (CD)
+https://tnt-television.com/LIFEHD_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://mishapi-voice-tv-online4.vercel.app/lovable-uploads/f7567e17-97fe-409c-9fdb-892bff8326de.png" tvg-country="Congo (CD)" group-title="Généraliste",Mishapi (CD)
+https://mishapivoicetv.net/stopRTpropagande.m3u8
+#EXTINF:-1 tvg-logo="https://glistream.com/storage/streamit-laravel/WhatsApp_Image_2026_06_20_at_10_50_06_6a36711698e70.jpeg" tvg-country="Congo (CD)" group-title="Séries-Films",Kinoiserie (CD)
+https://stream.berosat.live:19360/kinoiserie-tv/kinoiserie-tv.m3u8
+#EXTINF:-1 tvg-logo="https://b-onetv.cd/wp-content/uploads/2022/01/b_one_tv_logo_retina-1.png" tvg-country="Congo (CD)" group-title="Sociétal",B-One TV (CD)
+https://tnt-television.com/B-ONE_ZAP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/finessemonde.jpg" tvg-country="Congo (CD)" group-title="Sociétal",Finesse Monde (CD)
+https://stream.berosat.live:19360/finesse-monde/finesse-monde.m3u8
+#EXTINF:-1 tvg-logo="https://files.cdn-files-a.com/uploads/10230297/400_678f2d548b3e6.png" tvg-country="Congo (CD)" group-title="Sociétal",Light Echo TV (CD)
+https://stream.lighteco-rdc.org/live/lightecotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tnf-hd.com/uploads/tv_image/sm/vox-kongotv.jpeg" tvg-country="Congo (CD)" group-title="ϟϟϟ Sans catégorie",Vox Kongo TV (CD)
+https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/eadtv.jpg" tvg-country="Congo (CG)" group-title="Culture",EàDTV (CG)
+https://playtv4k.live/live/CE2026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ai9kpuu.jpeg" tvg-country="Congo (CG)" group-title="Divertissement",JOS TV (CG)
+https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dguj1eP.jpeg" tvg-country="Congo (CG)" group-title="Généraliste",NTI TV (CG)
+https://stream.berosat.live:19360/nti-index/nti-index.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/starnovelas.jpeg" tvg-country="Congo (CG)" group-title="Séries-Films",Star+Novelas (CG)
+https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/N7kTwCzuJEflI_1frpWppCzqSqd7m48v9II7ukaDAlQlJCUK95zDIJvLOMIU-WDgevhz10RCxg=s160-c-k-c0x00ffffff-no-rj" tvg-country="Congo (CG)" group-title="Sociétal",EV-Télé (CG)
+https://playtv4k.live/live/EVTELE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/RTD-LOGO2013.png" tvg-country="Djibouti" group-title="Généraliste",RTD (DJ)
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCB0NxICFmGabAalD46J2i4A.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GabonPremiere.png" tvg-country="Gabon" group-title="Généraliste",Gabon 1ère (GA)
+https://connect.imnet.online/watch/gabon_1ere-54e2d65d?embed=1#tvrz=nouvfen&nolist
+#EXTINF:-1 tvg-logo="https://ibmsoultv.fr/assets/images/logo.png" tvg-country="Guinée" group-title="Divertissement",IBM Soul (GN)
+https://playtv4k.live/live/ibmsoul/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/7/2/d7233663bd386e3135b479ee1f60b6a9_screen.png?w=200" tvg-country="Guinée" group-title="Divertissement",LGF Talk (GN)
+https://edge11.vedge.infomaniak.com/livecast/espacetv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_ATV_%28African_TV_Guin%C3%A9e%29.jpg" tvg-country="Guinée" group-title="Généraliste",ATV (GN)
+https://lbgo.bozztv.com/ssh101/ssh101/atvguinee2026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1sMcXz.png" tvg-country="Guinée" group-title="Généraliste",RTG 1 (GN)
+https://playtv4k.live/live/rtg1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E1sMcXz.png" tvg-country="Guinée" group-title="Généraliste",RTG 2 (GN)
+https://stream.castr.com/6358a30fa50e3ae11b6d0424/live_e05d20809c3611edadb72177341481c3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.goafricaonline.com/media/cache/resolve/w400/uploads/media/company_square/0004/80/6671ac83c692d-cis-tv-logo-web.jpg" tvg-country="Guinée" group-title="Sociétal",CIS TV (GN)
+https://tvradiozap.eu/tools/ac-m3u8.php/80.m3u8
+#EXTINF:-1 tvg-logo="https://kabacktvguinee.com/wp-content/uploads/2024/05/logo-kabacktv-mini-1.png" tvg-country="Guinée" group-title="Sociétal",Kaback TV (GN)
+https://guineetvdirect.online:3842/live/kabacktvlive.m3u8
+#EXTINF:-1 tvg-logo="https://tv.kolo.mg/wp-content/uploads/2024/02/001.png" tvg-country="Madagascar" group-title="Généraliste",Kolo TV (MG)
+https://tvradiozap.eu/tools/tw-m3u8.php/kolotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://mcmparis.wordpress.com/wp-content/uploads/2018/09/mbs-on-line.jpg" tvg-country="Madagascar" group-title="Généraliste",MBS TV (MG)
+https://tvradiozap.eu/tools/tw-m3u8.php/malagasynews.m3u8
+#EXTINF:-1 tvg-logo="https://d3tv.net/wp-content/uploads/2025/07/D3TV-2.png" tvg-country="Mali" group-title="Divertissement",D3 TV (ML)
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/nexttv.jpg" tvg-country="Mali" group-title="Généraliste",Next TV (ML)
+https://video1.getstreamhosting.com:1936/8312/8312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cb/ORTM.gif" tvg-country="Mali" group-title="Généraliste",ORTM2 (ML)
+https://glb.bozztv.com/glb/astv/astv-ortm2/index.m3u8?token=994940dffa4f2c8c74be74353cb04754
+#EXTINF:-1 tvg-logo="https://taltv.rtn.ne/app/theme/assets/images/tal-logo.png" tvg-country="Niger" group-title="Généraliste",TAL (NE)
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ab/2sTV_logo.png" tvg-country="Sénégal" group-title="Généraliste",2STV (SN)
+https://cloudvider.leatdev.com/2stv/index.m3u8
+#EXTINF:-1 tvg-logo="https://africa7media.com/wp-content/uploads/2024/12/Africa7-logo-BLANC-scaled-1.png" tvg-country="Sénégal" group-title="Généraliste",Africa7 (SN)
+https://uae.iptv2022.com/sh/Africa_7/index.m3u8
+#EXTINF:-1 tvg-logo="https://amanitv.media/wp-content/uploads/2021/07/ama-tv-logo.png" tvg-country="Sénégal" group-title="Généraliste",Amani TV (SN)
+https://5dcabf026b188.streamlock.net/aoblive/amanitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ue02CIH.png" tvg-country="Sénégal" group-title="Généraliste",GMS TV (SN)
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BWnUgK.png" tvg-country="Sénégal" group-title="Généraliste",GTV (SN)
+https://tvradiozap.eu/tools/ac-m3u8.php/83.m3u8
+#EXTINF:-1 tvg-logo="https://emedia.sn/wp-content/uploads/2025/09/WhatsApp-Image-2026-10-01-at-20.07.47.jpeg" tvg-country="Sénégal" group-title="Généraliste",ITV Sénégal (SN)
+https://tvradiozap.eu/tools/cof-m3u8.php/yt/UCIdNAY1QlzXahhX6lsZv2kg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeCSPsI.jpeg" tvg-country="Sénégal" group-title="Généraliste",SenJeunes (SN)
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sentv.sn/logo/dmedia.svg" tvg-country="Sénégal" group-title="Généraliste",SenTV (SN)
+https://cloudvider.leatdev.com/sentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://africaorigin.net/upload/source/louga.jpg" tvg-country="Sénégal" group-title="Régional",Louga TV (SN)
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts.13e4ee12.png&w=128&q=75" tvg-country="Sénégal" group-title="Régional",RTS 3 Tamba (SN)
+https://tvradiozap.eu/tools/ac-m3u8.php/42.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts.13e4ee12.png&w=128&q=75" tvg-country="Sénégal" group-title="Régional",RTS 4 Casamance (SN)
+https://tvradiozap.eu/tools/ac-m3u8.php/51.m3u8
+#EXTINF:-1 tvg-logo="https://www.rts.sn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frts.13e4ee12.png&w=128&q=75" tvg-country="Sénégal" group-title="Régional",RTS 5 Matam (SN)
+https://tvradiozap.eu/tools/ac-m3u8.php/52.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/afric4.png" tvg-country="Sénégal" group-title="ϟϟϟ Sans catégorie",Afric4 (SN)
+https://vdo.pro-fhi.net:3788/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/chandeltv.tg/wp-content/uploads/2024/11/LOGO-CHANDEL-TV.png" tvg-country="Togo" group-title="Divertissement",Chandel TV (TG)
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/afreepress.tg/wp-content/uploads/2024/07/images-3.jpeg" tvg-country="Togo" group-title="Divertissement",ESPOIR 47 (TG)
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo-New-World-TV-01-1.png/330px-Logo-New-World-TV-01-1.png" tvg-country="Togo" group-title="Info",NW Info (TG)
+https://hls.newworldtv.com/nw-info/stopRTpropagande.m3u8
+#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/j/d/u/temp-aaqjswdyltnkewbodpfi/whatsapp-image-2026-03-22-at-16-57-09-high.jpg?enable-io=true&width=320" tvg-country="Panafrique" group-title="Divertissement",Ring House TV
+https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.afrika7-channel.com/wp-content/uploads/2025/08/LOGO-AFRIKA7-CHANNEL-SANS-FOND-100.png" tvg-country="Panafrique" group-title="Genéraliste",A7C (FR)
+https://vdo3.pro-fhi.net:3177/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/34280/logo_256.jpeg" tvg-country="Panafrique" group-title="Info",Afronews
+https://video1.getstreamhosting.com:1936/8064/8064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2d/Tracekitoko2022.png" tvg-country="Congo (CD)" group-title="Musique Afro",Trace Kitoko (CD)
+https://channels.trace.plus/Traceprod/KITOKO/abr.m3u8
+#EXTINF:-1 tvg-logo="https://roku.afrikastv.com/channels/logo/afro-culture-channel-.gif" tvg-country="Côte d’Ivoire" group-title="Musique Afro",My Afroculture (CI)
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-logo="https://reflet.tv/wp-content/uploads/2022/12/Logo_RTV.svg" tvg-country="Côte d’Ivoire" group-title="Musique Afro",Reflet TV (CI)
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_Trace_Vanilla_%282022%29.svg/330px-Logo_Trace_Vanilla_%282022%29.svg.png" tvg-country="France" group-title="Musique Afro",Trace Vanilla
+https://channels.trace.plus/Traceprod/VANILLA/abr.m3u8
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?&id=OVP.WvsIhRNcCkkN26gfuAH1ngEsDh&w=330&h=186&c=7&pid=1.7&rs=1" tvg-country="Guinée" group-title="Musique Afro",LGF Pop (GN)
+https://kalactv.vedge.infomaniak.com/livecast/kalactv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwPaw3v.png" tvg-country="Haïti" group-title="Musique Afro",HMI Promz News (HT)
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nago.tv/assets/img/marks/nago-music.png" tvg-country="Haïti" group-title="Musique Afro",Nago Music (HT)
+https://video.lakay.live:3545/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/touchedouce.jpg" tvg-country="Haïti" group-title="Musique Afro",Touche Douce TV (US HT)
+https://vdo.pro-fhi.net:3576/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png" tvg-country="Panafrique" group-title="Musique Afro",Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/28/Bblack_caribbean_logo.png/revision/latest?cb=20160625144523&path-prefix=fr" tvg-country="Panafrique" group-title="Musique Afro",Bblack! Caribbean
+https://bblackcaribbean.vedge.infomaniak.com/livecast/bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/Bblack_classick_logo.png/revision/latest/scale-to-width-down/320?cb=20160625144410&path-prefix=fr" tvg-country="Panafrique" group-title="Musique Afro",Bblack! Classik
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://dbm-tv.fr/wp-content/uploads/2025/11/logo-e1762929386588-300x164.png" tvg-country="Panafrique" group-title="Musique Afro",DBM (FR)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c6/Traceafrica2022.png" tvg-country="Panafrique" group-title="Musique Afro",Trace Africa (CD)
+https://channels.trace.plus/Traceprod/AFRICA_FR/abr.m3u8
+#EXTINF:-1 tvg-logo="https://www.zik-channel.com/wp-content/uploads/2025/03/cropped-LOGO-ZIK-CHANNEL-SANS-FOND-1.png" tvg-country="Panafrique" group-title="Musique Afro",Zik Channel (FR)
+https://vdo3.pro-fhi.net:3558/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv5HchL1/trtoca.png" tvg-country="Portugal" group-title="Musique Afro",Trace Toca (PT)
+https://channels.trace.plus/Traceprod/TOCA.m3u8
+#EXTINF:-1 tvg-logo="https://telepack.net/wp-content/uploads/2024/04/A2I.png" tvg-country="Sénégal" group-title="Musique Afro",A2i Music (SN)
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7ReN4E.png" tvg-country="France Guadeloupe" group-title="Musique Antillais",Guadeloupe 4TV
+https://tvradiozap.eu/tools/tw-m3u8.php/guadeloupe4tv.m3u8
+#EXTINF:-1 tvg-logo="https://www.megazap.fr/photo/art/default/60812280-44456336.jpg" tvg-country="France Guadeloupe" group-title="Musique Antillais",My TV Caraïbes
+https://tvradiozap.eu/tools/tw-m3u8.php/mytvcaraibes97.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iOAl2j.png" tvg-country="France Guadeloupe" group-title="Musique Antillais",TMA
+https://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://identiteradio.com/wp-content/uploads/2020/06/Logo-Identite-Radio-2021-martinique-longmodif-24-FM.png" tvg-country="France Martinique" group-title="Musique Antillais",Identité Télé Caraïbes
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://p2mtv.com/wp-content/uploads/2023/08/363501045_6914953078566949_1170508259438111981_n.jpg" tvg-country="France Martinique" group-title="Musique Antillais",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.telezoukla.com/gallery_gen/354e5710b3a20b6ec2a926cfffe15241_610x226_fit.png" tvg-country="France Martinique" group-title="Musique Antillais",Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Trace_Brasil_logo.PNG/330px-Trace_Brasil_logo.PNG" tvg-country="France" group-title="Musique Brésilien",Trace Brasil
+https://trace-brazuca-lg-fr.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-brazuca-lg-fr/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d90a57a66251fdda967c2e2b9e6aa25d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1753727436599_StingrayFreeRiding_HUDlogo_centered_260x147.png" tvg-country="Canada" group-title="Musique Chill",Stingray Free Riding
+https://jmp2.uk/rok-d90a57a66251fdda967c2e2b9e6aa25d.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3523-294x165-FFFFFF.jpg" tvg-country="USA" group-title="Musique Chill",Energy TV Music (US)
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/b373f306ef980ec0607392b7cff9492c" tvg-country="USA" group-title="Musique Chill",Xite Just Chill (US)
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Stingray-classica-alternative-logo.png/960px-Stingray-classica-alternative-logo.png" tvg-country="Canada" group-title="Musique Classique",Stingray Classica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4022
+#EXTINF:-1 tvg-logo="https://www.sunyfunradio.fun/wp-content/uploads/2025/11/AFTERWORK-1-1170x1170.jpg" tvg-country="France" group-title="Musique Clips",Sunyfun TV
+https://e-tv.digicomedia.net:3375/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" tvg-country="Canada" group-title="Musique Concert",Stingray Qello Concerts 1
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png" tvg-country="Canada" group-title="Musique Concert",Stingray Qello Concerts 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3039
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png" tvg-country="Panamérique" group-title="Musique Concert",Totalmusic Concert
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20260421T141135SQUARE.png" tvg-country="Canada" group-title="Musique Country",XITE Classic Country (CA)
+https://d2xm7fwgbakh1x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ltmgkaa20sgt9/XITE_Countrys_Finest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCb7Ag2.png" tvg-country="USA" group-title="Musique Country",CMC TV (USA)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3395d3b6c6e895a495fd12a2c719b21c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1728501104207_260x147_Image_HUD_2.png" tvg-country="USA" group-title="Musique Country",iHeartCountry Classics (US)
+https://jmp2.uk/rok-3395d3b6c6e895a495fd12a2c719b21c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rKkHhkX.png" tvg-country="USA" group-title="Musique Country",Stryk TV (US)
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png" tvg-country="Allemagne" group-title="Musique Dance",DLX Dance (DE)
+https://d37i8mvsaxucfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0785d94zsjwwd/index.m3u8?country=DE&vendor=Samsung
+#EXTINF:-1 tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-country="Estonie" group-title="Musique Dance",Dance Television (EE)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/channel/600xH/rtl-1025-disco-wide-site-rvqdk.png" tvg-country="Italie" group-title="Musique Dance",RTL 102.5 Disco (IT)
+https://streamcdnp7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-dance.png" tvg-country="Panamérique" group-title="Musique Dance",Totalmusic Dance
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvimpact.live/icons/icon-512.png" tvg-country="Roumanie" group-title="Musique Dance",Impact Dance (RO)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/viib-v2beat-logo-neon-1280-x-720.jpg" tvg-country="Royaume-Uni" group-title="Musique Dance",VIIB (UK)
+https://abr.de1se01.v2beat.live/live/live6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/937.png" tvg-country="Afghanistan" group-title="Musique Ethnique",Pamir (AF)
+https://www.giniko.com/xml/secure/plist.php?ch=937
+#EXTINF:-1 tvg-logo="https://albswiss.com/wp-content/uploads/2021/11/AlbSwiss-logo-2021.png" tvg-country="Albanie" group-title="Musique Ethnique",Alb'Swiss TV (AL)
+https://livetv.albswiss.com/Albswiss/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://shqiponja.tv/wp-content/uploads/2023/08/Logo-1.png" tvg-country="Albanie" group-title="Musique Ethnique",Shqiponja  TV (AL)
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://triangolomedia.com/assets/uploads/channels/e743f31d458995e052f8.png" tvg-country="Albanie" group-title="Musique Ethnique",Zico TV (AL)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d0759b0-b83b-42ff-9ea5-5582a0478c90/variants/49f6b89bd291722c227e312eaa7d04e4380b4c0b7611bf68a82c328d2c00fcb9-width308-quality90.webp" tvg-country="Allemagne" group-title="Musique Ethnique",Vevo Schlager Pop (DE)
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://armtv.org/uploads/posts/2021-07/1626868277_fresh-tv.jpg" tvg-country="Arménie" group-title="Musique Ethnique",Fresh (AM)
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMgzzkf.png" tvg-country="Bulgarie" group-title="Musique Ethnique",DSTV (BG)
+https://dstv-bg.com/hls/data.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-country="Bulgarie" group-title="Musique Ethnique",Magic (BG)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lSpplhD.png" tvg-country="Ethiopie" group-title="Musique Ethnique",EBS Musika (ET)
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1 tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" tvg-country="Géorgie" group-title="Musique Ethnique",Qartuli Simgerebi (GE)
+https://fl1003.bozztv.com/ushba57/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.V37r9mdbF9eMCq0NJTGEAAAAAA" tvg-country="Grèce" group-title="Musique Ethnique",Baraza TV (GR)
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/tilemousiki.jpg" tvg-country="Grèce" group-title="Musique Ethnique",Tilemousiki (GR)
+https://183.bozztv.com/ssh101/ssh101/tilemousiki/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=320x200" tvg-country="Inde" group-title="Musique Ethnique",B4U Music (IN)
+https://cdn.pishow.tv/ott/live/415/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" tvg-country="Inde" group-title="Musique Ethnique",Boogle Bollywood (IN)
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1559.jpg" tvg-country="Inde" group-title="Musique Ethnique",Indian Music (IN)
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-country="Inde" group-title="Musique Ethnique",NH BollyRaga (IN)
+https://jmp2.uk/stvp-IN460001373
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" tvg-country="Inde" group-title="Musique Ethnique",PTC Music (IN)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=320x200" tvg-country="Inde" group-title="Musique Ethnique",Punjabi Hits (IN)
+https://stream.ottlive.co.in/punjabihits/index.m3u8
+#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2026/03/4-Kurd-Live-Online.png" tvg-country="Iran" group-title="Musique Ethnique",4 Kurd (IR)
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://avang.com/logo1.png" tvg-country="Iran" group-title="Musique Ethnique",Avang TV (IR)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/favicon-180.png" tvg-country="Iran" group-title="Musique Ethnique",Radio Javan (IR)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.casasanremo.it/wp-content/uploads/2025/12/cs-tv-negativo.svg" tvg-country="Italie" group-title="Musique Ethnique",Casa Sanremo TV (IT)
+https://stream12.xdevel.com/video0s975911-3071/stream/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1DE7Gmw.png" tvg-country="Jordanie" group-title="Musique Ethnique",Jordan Songs (JO)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" tvg-country="Ouzbékistan" group-title="Musique Ethnique",Biz Music (UZ)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7lpISyN.jpg" tvg-country="Ouzbékistan" group-title="Musique Ethnique",FTV (UZ)
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s8.vcdn.biz/static/f/6010782281/image.jpg" tvg-country="Ouzbékistan" group-title="Musique Ethnique",Muz TV (UZ)
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6B3Cims.png" tvg-country="Palestine" group-title="Musique Ethnique",Falastini TV (PS)
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://atomicacademytv.ro/wp-content/uploads/2024/08/Academie-Logo-1536x401.png" tvg-country="Roumanie" group-title="Musique Ethnique",Academia atomic tv (RO)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-logo="https://atomicacademytv.ro/wp-content/uploads/2024/08/Atomic-Logo-768x195.png" tvg-country="Roumanie" group-title="Musique Ethnique",Atomic tv (RO)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5zssCz.png" tvg-country="Roumanie" group-title="Musique Ethnique",EMI TV (RO)
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.partymixtv.ro/wp-content/uploads/2020/06/party-mix-header-1.png" tvg-country="Roumanie" group-title="Musique Ethnique",Party Mix (RO)
+https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/84.png" tvg-country="Turquie" group-title="Musique Ethnique",Kral Pop (TR)
+https://www.giniko.com/xml/secure/plist.php?ch=84
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" tvg-country="Turquie" group-title="Musique Ethnique",Power TV (TR)
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5nW3HU.png" tvg-country="Turquie" group-title="Musique Ethnique",PowerTurk Taptaze (TR)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtportal/17776810_0-0-287-174.png" tvg-country="Turquie" group-title="Musique Ethnique",TRT Music (TR)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ienkbOc.png" tvg-country="Ukraine" group-title="Musique Ethnique",НАШЕ music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" tvg-country="Canada" group-title="Musique Film",Stingray Movie Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3034
+#EXTINF:-1 tvg-logo="https://www.predavatel.com/bg/3/asenovgrad_img/tv-tiankov-folk.png" tvg-country="Bulgarie" group-title="Musique Folk",Tiankov Folk (BG)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.predavatel.com/bg/3/asenovgrad_img/tv-tiankov-orient.png" tvg-country="Bulgarie" group-title="Musique Folk",Tiankov Orient Folk (BG)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" tvg-country="Espagne" group-title="Musique Folk",Factoria de Carnaval (ES)
+https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.persianagroup.tv/assets/logos/folk.png" tvg-country="Iran" group-title="Musique Folk",Persiana Folk (IR)
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ya5xpUL.png" tvg-country="Macédoine du Nord" group-title="Musique Folk",Sky Folk TV (MK)
+https://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1bZHb5.png" tvg-country="Pérou" group-title="Musique Folk",Folklore TV (PE)
+https://play.corporacionobiaga.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I60nQuR.png" tvg-country="Portugal" group-title="Musique Folk",RFPtv (PT)
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvimpact.live/icons/icon-512.png" tvg-country="Roumanie" group-title="Musique Folk",Impact Manele (RO)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-logo="https://www.interlan.ro/wp-content/uploads/2021/03/rapsodia.png" tvg-country="Roumanie" group-title="Musique Folk",Rapsodia TV (RO)
+https://tvradiozap.eu/tools/tw-m3u8.php/rapsodiatv.m3u8
+#EXTINF:-1 tvg-logo="https://player.radiolola.rs/img/lolalogo.png" tvg-country="Serbie" group-title="Musique Folk",Lola Radio (RS)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" tvg-country="Tchéquie" group-title="Musique Folk",Šlágr Muzika (CZ)
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e8/Tracegospel2022.png" tvg-country="France" group-title="Musique Gospel",Trace Gospel Afro Fr
+https://channels.trace.plus/Traceprod/GOSPEL_FR/abr.m3u8
+#EXTINF:-1 tvg-logo="https://media.umbraco.io/trace-backoffice/u5kjb4ra/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-southern-africa_1200x800_v1.jpg?anchor=center&mode=crop&upscale=false&format=webp&quality=50" tvg-country="Panafrique" group-title="Musique Gospel",Trace Gospel SA
+https://channels.trace.plus/Traceprod/GOSPEL_SA/abr.m3u8
+#EXTINF:-1 tvg-logo="https://generations.fr/media/option/logo.webp" tvg-country="France" group-title="Musique Hip-hop",Génération TV
+https://generation-tv.vedge.infomaniak.com/livecast/generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/db9a9040-b456-419f-8ca3-5d4895b81291-width320-quality90.jpeg" tvg-country="France" group-title="Musique Hip-hop",Vevo Hip-Hop & RnB
+https://amg00056-amg00056c14-rakuten-fr-3244.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-rakutenfr/playlist.m3u8?ads_amagi_channel=916
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/channel/600xH/rtl-1025-bro-and-sis-wide-bekb9.png" tvg-country="Italie" group-title="Musique Hip-hop",RTL 102.5 Bro&Sis (IT)
+https://streamcdnp6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCUZKiw.png" tvg-country="Espagne" group-title="Musique Hispano",Activa TV (ES)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/logoMenu.png" tvg-country="Espagne" group-title="Musique Hispano",Cadena Elite (ES)
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TthjhJ6/solmusica.png" tvg-country="Espagne" group-title="Musique Hispano",Sol Mùsica (ES)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20251013T054833SQUARE.png" tvg-country="Allemagne" group-title="Musique Hits",XITE Hits (DE)
+https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kronehit.at/static/base/main/img/logo.ecbaf631e769.png" tvg-country="Autriche" group-title="Musique Hits",Krone Hits (AT)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200021MS_20260421T140958SQUARE.png" tvg-country="Canada" group-title="Musique Hits",XITE Classic Jams (CA)
+https://d2oz370wb3h6u8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hpc8fcz7wwc5d/XITE_RnB_Classic_Jams.m3u8
+#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo.svg" tvg-country="Italie" group-title="Musique Hits",M20 (IT)
+https://streamcdnp2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/channel/600xH/rtl-1025-best-wide-aqu8h.png" tvg-country="Italie" group-title="Musique Hits",RTL 102.5 Best (IT)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260804T051900SQUARE.png" tvg-country="Royaume-Uni" group-title="Musique Hits",XITE Hits (UK)
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" tvg-country="USA" group-title="Musique Hits",XITE Hits (US)
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3696-294x165-FFFFFF.jpg" tvg-country="Paneurope" group-title="Musique Indie",EIMC
+https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" tvg-country="Canada" group-title="Musique Jazz",Stingray Djazz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/Qwest_TV_Logo.jpg/250px-Qwest_TV_Logo.jpg" tvg-country="France" group-title="Musique Jazz",Qwest Jazz
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/400x400/powerapp/channels/v3/logo_36.png?v=14" tvg-country="Turquie" group-title="Musique Jazz",Power Love (TR)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://que4.org/wp-content/uploads/2017/12/cropped-que4-logo_texture-retro.png" tvg-country="USA" group-title="Musique Jazz",Que4 Radio (US)
+https://video1.getstreamhosting.com:1936/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/WU328402/1717007253552436670-poster_h_medium.png" tvg-country="Corée du Sud" group-title="Musique K-pop",New K-Pop
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_sub.png?utm_source=fr.wikipedia.org" tvg-country="Corée du Sud" group-title="Musique K-pop",Show Champion
+https://2f63ef134ad044c8bc3b4ab0131658e9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TCLTVPlus_NewKPop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/a2BerHbRiyenqJnkiK86_UT8IPKfPoBtSUwfG?io=true&size=avatar-v3_0" tvg-country="France" group-title="Musique K-pop",K-Pop
+https://d1yfnvvjbfegl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w0r1mnmjpu0qh/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://patagoniaradio.cl/patagonia/site/artic/20230516/imag/foto_0000000120230516111816/logo-patagonia.png" tvg-country="Chili" group-title="Musique Latino",Patagonia Radio (CL)
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2507-294x165-FFFFFF.jpg" tvg-country="Chili" group-title="Musique Latino",Ruidos TV (CL)
+https://tv1.ruidosfm.cl/ruidostv/stream.m3u8?hls_ctx=47871023
+#EXTINF:-1 tvg-logo="https://i.imgur.com/URKDlOZ.png" tvg-country="Colombie" group-title="Musique Latino",Buenisima Radio TV (CO)
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" tvg-country="Colombie" group-title="Musique Latino",Parranda Vallenata (CO)
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-country="Colombie" group-title="Musique Latino",Salsa Gorda TV (CO)
+https://stmv1.voxtvhd.com.br/salsagorda/salsagorda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/vm_latino_1.png?itok=T_JdaH9p" tvg-country="Costa Rica" group-title="Musique Latino",VM Latino (CR)
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/835/cumbia-mix-tv.cca55279.jpg" tvg-country="Espagne" group-title="Musique Latino",Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/tvomix.png" tvg-country="Espagne" group-title="Musique Latino",TVOMix
+https://cloud.tvomix.com/TVOMIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20260707T051048SQUARE.png" tvg-country="Espagne" group-title="Musique Latino",Vevo Latino (ES)
+https://d2xijrr4wx5ch6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6t0qpfdg3pp0p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/330px-TRACE_Latina_Logo.png" tvg-country="France" group-title="Musique Latino",Trace Latina
+https://channels.trace.plus/Traceprod/LATINA/abr.m3u8
+#EXTINF:-1 tvg-logo="https://ushba.tv/thumbnails/ushba-t5.jpg" tvg-country="Géorgie" group-title="Musique Latino",Reggaeton Music (GE)
+https://rpn3.bozztv.com/dvrfl07/ushba-t5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/channel/600xH/rtl-1025-caliente-wide-site-jhphr.png" tvg-country="Italie" group-title="Musique Latino",RTL 102.5 Caliente (IT)
+https://streamcdnp4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b3256000.m3u8
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/oly/linear_channel/thumbnails/widescreen/banda.jpg" tvg-country="Mexique" group-title="Musique Latino",FreeTV Banda (MX)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16216
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s4de2be28e67568e4/backgroundarea/ifc2aea3bc3cb6f9a/version/1635386230/image.jpg" tvg-country="Mexique" group-title="Musique Latino",Visión TV (MX)
+https://cloudpro.servidoresdestream.com:8081/8026/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3714-294x165-FFFFFF.jpg" tvg-country="Panama" group-title="Musique Latino",A Son de Salsa TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" tvg-country="Panama" group-title="Musique Latino",Fabulosa Estéreo
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3766-294x165-FFFFFF.jpg" tvg-country="Panama" group-title="Musique Latino",Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/7.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3036-294x165-FFFFFF.jpg" tvg-country="Panamérique" group-title="Musique Latino",Cumbia TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16184
+#EXTINF:-1 tvg-logo="https://grupojapradiotv.com/wp-content/uploads/2024/11/tropical-moon-tv-SATATV-transparente.png" tvg-country="Panamérique" group-title="Musique Latino",Salsa TV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2211-294x165-FFFFFF.jpg" tvg-country="Panamérique" group-title="Musique Latino",Urban TV
+https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ymcWecA.png" tvg-country="Paraguay" group-title="Musique Latino",Alcance TV (PY)
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AUoxyzP.png" tvg-country="Pérou" group-title="Musique Latino", Radio Master (PE)
+https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 tvg-logo="https://chalacatv.com/wp-content/uploads/2025/05/chalaca_2021-oK-01.png" tvg-country="Pérou" group-title="Musique Latino",Radio Chalaka TV (PE)
+https://servilive.com:3414/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://tvradiozap.eu/tv/logos/fratatv.jpg" tvg-country="République dominicaine" group-title="Musique Latino",Frata TV (DO)
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5dj9WUFyAtV_6J4Rj4TGAY9Bj3iHzn3AibyWuZdwIg" tvg-country="République dominicaine" group-title="Musique Latino",Notisur (DO)
+https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cableondaoriental.com/wp-content/uploads/2020/12/logo-cable-onda-oriental.svg" tvg-country="République dominicaine" group-title="Musique Latino",Onda TV (DO)
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://vallenuevotv.com/wp-content/uploads/2026/06/ChatGPT_Image_8_jun_2026__03_44_50_p.m.-removebg-preview.png" tvg-country="République dominicaine" group-title="Musique Latino",Valle Nuevo (DO)
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jYwaM3wSVuNVrZcz7f_DOxFnl7CrzUcDKRfKtsjlyG_7coPXIqFrAB6tP2rK-4c_hEuuFz8wp7MD6hsAkVG66g=w240-h480-rw" tvg-country="Uruguay" group-title="Musique Latino",Fabulosa (UY)
+https://eu1.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FA287765/1755116602570729443-XITENuevoLatinoSC_poster_h_medium.png" tvg-country="USA" group-title="Musique Latino",Xite Nuevo Latino (US)
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FA768065/1755116905669443942-XITESiempreLatinoSC_poster_h_small.png" tvg-country="USA" group-title="Musique Latino",Xite Siempre Latino (US)
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vygOosC.png" tvg-country="Venezuela" group-title="Musique Latino", BTA TV (VE)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Skyrock_2011_logo.png/330px-Skyrock_2011_logo.png" tvg-country="France" group-title="Musique Mix",Skyrock TV
+https://amg01796-amg01796c37-amgplt0011.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01796-amg01796c37-amgplt0011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/Traceayiti2022.png" tvg-country="Haïti" group-title="Musique Mix",Trace Ayiti (HT)
+https://channels.trace.plus/Traceprod/AYITI/abr.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic.png" tvg-country="Panamérique" group-title="Musique Mix",Totalmusic
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-00s.png" tvg-country="Panamérique" group-title="Musique Mix",Totalmusic 2000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" tvg-country="Pays-Bas" group-title="Musique Mix",Hype (NL)
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/330px-4fun.tv_Logo_%282017%29.svg.png" tvg-country="Pologne" group-title="Musique Mix",4Fun TV (PO)
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxXJddKf/Kuriakosmsc.png" tvg-country="Portugal" group-title="Musique Mix",Kuriakos Music (PT)
+https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.discount/wp-content/uploads/2026/10/cropped-tre-d-logo-RADIO-DISCOunt-TV-per-template.png" tvg-country="Suisse" group-title="Musique Mix",Radio DISCOunt (CH)
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_TVM3_2015.png" tvg-country="Suisse" group-title="Musique Mix",TVM3 (CH)
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0ffe1995-3778-4619-a7c4-85af6b788e61-width320-quality90.jpeg" tvg-country="France" group-title="Musique Pop",Vevo Pop
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8?ads_amagi_channel=920
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CtD77v/vevo90.png" tvg-country="France" group-title="Musique Retro",Vevo 90 & 00's
+https://d1cj21il6keqa2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1jatv2dap12i7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fionnbreen.com/assets/vevo/vevo-case-study-brand-1x1_20220516.jpg" tvg-country="France" group-title="Musique Retro",Vevo Retro Rock
+https://d1s8zjiny93ow5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ttp4m631k247b/Vevo90and2000_FR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y4kNV3Q.png" tvg-country="Italie" group-title="Musique Retro",70 80 Ricordi (IT)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-80s.png" tvg-country="Panamérique" group-title="Musique Retro",Totalmusic 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/That%27s_70s.svg/revision/latest" tvg-country="Royaume-Uni" group-title="Musique Retro",That's 70s (UK)
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/That%27s_80s.png/revision/latest" tvg-country="Royaume-Uni" group-title="Musique Retro",That's 80s (UK)
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/That%27s_90s_%26_00s.png/revision/latest" tvg-country="Royaume-Uni" group-title="Musique Retro",That's 90s00s (UK)
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/Vevo-70s_1837.png" tvg-country="Royaume-Uni" group-title="Musique Retro",Vevo 70 & 80's (UK)
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+#EXTINF:-1 tvg-logo="https://player.karolina.rs/wp-content/uploads/2019/06/karolina.jpg" tvg-country="Serbie" group-title="Musique Retro",Karolina (RS)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-country="Tchéquie" group-title="Musique Retro",Óčko Star TV (CZ)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" tvg-country="Tchéquie" group-title="Musique Retro",Retro Music (CZ)
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://12core-tus-ingestion.s3.amazonaws.com/7a2b5ba4efe166b39b4127f5cdb79fe8" tvg-country="USA" group-title="Musique Retro",XITE 80s Flashback (US)
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:-1 tvg-logo="https://assets.teleon.tv/180_webp/xite-90s-throwback-nl.webp" tvg-country="USA" group-title="Musique Retro",XITE 90s Throwback (US)
+https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8
+#EXTINF:-1 tvg-logo="https://www.madrasfm.tv/wp-content/uploads/2021/02/cropped-ffffddsss2.png" tvg-country="France" group-title="Musique RnB",Madras FM TV
+https://edge15.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://ucm.one/wp-content/uploads/2025/09/B-Metal-Rocks.jpg" tvg-country="France" group-title="Musique Rock",Metal.Rocks
+https://amg00771-amg00771c5-rakuten-gb-9713.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/That%27s_Rock_2025.svg/revision/latest" tvg-country="France" group-title="Musique Rock",That's Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" tvg-country="Italie" group-title="Musique Rock",Rock TV (IT)
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FA565147/1755116130573269676-XITERockxMetalSC_poster_h_small.png" tvg-country="USA" group-title="Musique Rock",Xite Rock X Metal (US)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Trace_urban.png" tvg-country="France" group-title="Musique Urbain",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR/abr.m3u8
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/channel/600xH/rtl-1025-napula-wide-un96a.png" tvg-country="Italie" group-title="Musique Urbain",RTL 102.5 Napule (IT)
+https://streamcdnp5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png" tvg-country="Royaume-Uni" group-title="Musique Urbain",Trace UK (UK)
+https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA2900017MW_20250630T232945SQUARE.png" tvg-country="Canada" group-title="Musique Variété",Stingray Nostalgie
+https://d1qpj8iys7egju.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ieu7pjepuoxhd/manifest/ose-014ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7Gnis2rzL24Na9c-MhScl0JXecYTQZlZEf1_x356tA6YfH3s_toWM9WXsOtZj4SJ9JgdeIdqoQ=s160-c-k-c0x00ffffff-no-rj" tvg-country="France" group-title="Musique Variété",Alive My TV
+https://vdo2.pro-fhi.net:3711/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiodoublexx.com/images/logo_concept_radio_1.png" tvg-country="France" group-title="Musique Variété",CR Concept Radio
+https://srv.webtvmanager.fr:3635/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://images.lesindesradios.fr/fit-in/300x2000/radios/littoral/images/logo_XVXnlAO28F.png" tvg-country="France" group-title="Musique Variété",Littoral FM TV
+https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
